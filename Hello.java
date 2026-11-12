@@ -3,5 +3,6 @@ class Hello{
 {
 	System.out.println("hello world ");
 	System.out.println("hello java ");
+	System.out.println("edited from github");
 }
 }
