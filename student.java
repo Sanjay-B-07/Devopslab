@@ -4,5 +4,6 @@ class student
     {
         System.out.println("student management system");
         System.out.println("student name:Ravi");
+        System.out.println("error cleared");
     }
 }
